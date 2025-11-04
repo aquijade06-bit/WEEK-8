@@ -13,3 +13,4 @@ public class CreditCardPayment extends Payment {
         System.out.println("Processing credit card payment of $" + amount + " for card number " + cardNumber);
     }
 }
+
